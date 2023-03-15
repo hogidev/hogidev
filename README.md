@@ -1,16 +1,14 @@
-### Hi there 👋
+<pre>
+Hello world!!!
+</pre>
 
-<!--
-**hogidev/hogidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as a FE Engineer at [Techcombank](https://techcombank.com/) and a Freelancer also.
 
-Here are some ideas to get you started:
+### Feel free to checkout my social:
+- [Personal blog]()
+- [LinkedIn](https://www.linkedin.com/in/tranhoanggiang/)
+- [Twitter](https://twitter.com/hogi_dev)
+- Reach out to me: hogi.work@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### j4f 🤪
+![](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
